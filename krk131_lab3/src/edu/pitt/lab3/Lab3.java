@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 public class Lab3 {
 
 	public static void main(String[] args) {
-//		String input = JOptionPane.showInputDialog("Please enter a distance or weight amount in cm, in, yd, m, oz, gm, kg, lb\nex: 525600 cm").toLowerCase();
+		
 		String input;
 		
 		do {

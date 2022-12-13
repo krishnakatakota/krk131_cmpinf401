@@ -37,4 +37,9 @@ public class Lab10 {
 		}
 		
 	}
+	
+	public static void printCombos(int[] a, String out, int startIndex, int k) {
+		
+	}
+	
 }
